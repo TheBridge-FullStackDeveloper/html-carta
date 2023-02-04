@@ -1,5 +1,5 @@
-Dr. Eleanor Gaye
-Awesome Science faculty
+<div> Dr. Eleanor Gaye</div>
+<div> Awesome Science Faculty</div>
 University of Awesome
 Bobtown, CA 99999,
 USA

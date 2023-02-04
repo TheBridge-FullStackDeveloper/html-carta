@@ -1,12 +1,12 @@
 
 
 body {
-  max-width: 800px;
+  max-width: 800px !important;
   margin: 0 auto;
 }
 
 .sender-column {
-text-align: right;
+text-align: right !important;
 }
 
 h1 {
